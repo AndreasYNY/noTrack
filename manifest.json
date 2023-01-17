@@ -3,8 +3,9 @@
   "manifest_version": 2,
   "name": "noTrack",
   "version": "1.0",
-
-  "description": "Prevent google from redirecting you!",
+  "Author": "Andreas Yozef",
+  "description": "Prevent google from tracking you!",
+  "homepage_url": "https://github.com/AndreasYNY/noTrack",
 
   "content_scripts": [
     {
