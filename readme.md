@@ -24,5 +24,6 @@ Yes i know this is a futile attempt to escape google's tracker, but at the very 
 it's more secure and it respect your privacy.
   
 Made this at 3AM within 20 minutes.
-## Thanks
+## Mentions
 - [Undirect](https://github.com/xwipeoutx/undirect), for the inspiration.
+- [Don't track me Google](https://addons.mozilla.org/en-US/firefox/addon/dont-track-me-google1), Does the same thing, more broad and better!
