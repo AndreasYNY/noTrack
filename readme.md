@@ -1,5 +1,5 @@
 # NoTrack
-Simple Firefox extension inspired by Undirect.
+Simple Firefox extension for escaping google's tracker.  Inspired by Undirect.
 
 ## How does this work?
 Google hides redirect url before you click the link. So you could inspect the link in the bottom corner.  
@@ -9,7 +9,7 @@ Google hides redirect url before you click the link. So you could inspect the li
 ![after](https://i.imgur.com/1jJ396r.png)
 
   
-Now what NoTrack do is swap the original anchor tag with a new one without any attributes but `href` so Google couldn't swap it.
+Now what NoTrack do is swap the original anchor tag with a new one without any attributes but `href`, so Google couldn't swap it.
 
 ## Installing
 WIP
@@ -25,4 +25,4 @@ it's more secure and it respect your privacy.
   
 Made this at 3AM within 20 minutes.
 ## Thanks
-- Undirect, for the inspiration.
+- [Undirect](https://github.com/xwipeoutx/undirect), for the inspiration.
