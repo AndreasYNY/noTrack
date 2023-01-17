@@ -1,0 +1,18 @@
+{
+
+  "manifest_version": 2,
+  "name": "noTrack",
+  "version": "1.0",
+
+  "description": "Prevent google from redirecting you!",
+
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.google.com/*"
+    ],
+      "js": ["src/notrack.js"]
+    }
+  ]
+
+}
