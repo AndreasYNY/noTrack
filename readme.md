@@ -2,7 +2,7 @@
 Simple Firefox extension for escaping google's tracker.  Inspired by Undirect.
 
 ## How does this work?
-Google hides redirect url before you click the link. So you could inspect the link in the bottom corner.  
+Google hides redirect url before you click any link. So you could inspect the link in the bottom corner.  
 ### Before you click:  
 ![before](https://i.imgur.com/4CAUpdF.png)  
 ### after you click:  
@@ -16,7 +16,7 @@ WIP
 
 ## Todo
 - Change how the Script work:
-    - instead of swaping the anchor link, it's better to disable the function instead of swapping the the anchor tag.
+    - instead of swaping the anchor link, it's better to disable the function instead of swapping the anchor tag.
 
 ## Acknowledgement
 Yes i know this is a futile attempt to escape google's tracker, but at the very least google can't see where are you going...for now at least.  
