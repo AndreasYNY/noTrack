@@ -9,7 +9,7 @@ Google hides redirect url before you click the link. So you could inspect the li
 ![after](https://i.imgur.com/1jJ396r.png)
 
   
-Now what NoTrack do is swap the original anchor tag with a new one without any attributes but `href`, so Google couldn't swap it.
+Now what NoTrack do is swap the original anchor tag with a new one without any attributes but `href`, so Google couldn't change the url.
 
 ## Installing
 WIP
